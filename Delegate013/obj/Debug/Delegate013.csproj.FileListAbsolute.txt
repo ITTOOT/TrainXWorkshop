@@ -1,0 +1,6 @@
+C:\Workshop\Delegate013\bin\Debug\Delegate013.exe.config
+C:\Workshop\Delegate013\bin\Debug\Delegate013.exe
+C:\Workshop\Delegate013\bin\Debug\Delegate013.pdb
+C:\Workshop\Delegate013\obj\Debug\Delegate013.csproj.CoreCompileInputs.cache
+C:\Workshop\Delegate013\obj\Debug\Delegate013.exe
+C:\Workshop\Delegate013\obj\Debug\Delegate013.pdb

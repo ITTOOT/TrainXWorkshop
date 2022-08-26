@@ -1,0 +1,6 @@
+C:\Workshop\Collections008\bin\Debug\Collections008.exe.config
+C:\Workshop\Collections008\bin\Debug\Collections008.exe
+C:\Workshop\Collections008\bin\Debug\Collections008.pdb
+C:\Workshop\Collections008\obj\Debug\Collections008.csproj.CoreCompileInputs.cache
+C:\Workshop\Collections008\obj\Debug\Collections008.exe
+C:\Workshop\Collections008\obj\Debug\Collections008.pdb

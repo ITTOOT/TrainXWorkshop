@@ -1,0 +1,6 @@
+C:\Workshop\Interface005\bin\Debug\Interface005.exe.config
+C:\Workshop\Interface005\bin\Debug\Interface005.exe
+C:\Workshop\Interface005\bin\Debug\Interface005.pdb
+C:\Workshop\Interface005\obj\Debug\Interface005.csproj.CoreCompileInputs.cache
+C:\Workshop\Interface005\obj\Debug\Interface005.exe
+C:\Workshop\Interface005\obj\Debug\Interface005.pdb

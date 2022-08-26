@@ -1,0 +1,7 @@
+C:\Workshop\Arrays021\bin\Debug\Arrays021.exe.config
+C:\Workshop\Arrays021\bin\Debug\Arrays021.exe
+C:\Workshop\Arrays021\bin\Debug\Arrays021.pdb
+C:\Workshop\Arrays021\obj\Debug\Arrays021.csprojAssemblyReference.cache
+C:\Workshop\Arrays021\obj\Debug\Arrays021.csproj.CoreCompileInputs.cache
+C:\Workshop\Arrays021\obj\Debug\Arrays021.exe
+C:\Workshop\Arrays021\obj\Debug\Arrays021.pdb

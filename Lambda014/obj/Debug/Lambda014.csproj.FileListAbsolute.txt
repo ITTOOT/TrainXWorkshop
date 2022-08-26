@@ -1,0 +1,6 @@
+C:\Workshop\Lambda014\bin\Debug\Lambda014.exe.config
+C:\Workshop\Lambda014\bin\Debug\Lambda014.exe
+C:\Workshop\Lambda014\bin\Debug\Lambda014.pdb
+C:\Workshop\Lambda014\obj\Debug\Lambda014.csproj.CoreCompileInputs.cache
+C:\Workshop\Lambda014\obj\Debug\Lambda014.exe
+C:\Workshop\Lambda014\obj\Debug\Lambda014.pdb

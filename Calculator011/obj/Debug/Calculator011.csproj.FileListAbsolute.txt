@@ -1,0 +1,10 @@
+C:\Workshop\Calculator011\bin\Debug\Calculator011.exe.config
+C:\Workshop\Calculator011\bin\Debug\Calculator011.exe
+C:\Workshop\Calculator011\bin\Debug\Calculator011.pdb
+C:\Workshop\Calculator011\bin\Debug\MathsLibrary010.dll
+C:\Workshop\Calculator011\bin\Debug\MathsLibrary010.pdb
+C:\Workshop\Calculator011\obj\Debug\Calculator011.csprojAssemblyReference.cache
+C:\Workshop\Calculator011\obj\Debug\Calculator011.csproj.CoreCompileInputs.cache
+C:\Workshop\Calculator011\obj\Debug\Calculator011.csproj.CopyComplete
+C:\Workshop\Calculator011\obj\Debug\Calculator011.exe
+C:\Workshop\Calculator011\obj\Debug\Calculator011.pdb

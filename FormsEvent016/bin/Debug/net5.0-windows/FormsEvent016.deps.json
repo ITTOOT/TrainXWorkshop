@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "FormsEvent016/1.0.0": {
+        "runtime": {
+          "FormsEvent016.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormsEvent016/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

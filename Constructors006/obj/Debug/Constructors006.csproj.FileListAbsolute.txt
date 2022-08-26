@@ -1,0 +1,7 @@
+C:\Workshop\Constructors006\obj\Debug\Constructors006.csproj.CoreCompileInputs.cache
+C:\Workshop\Constructors006\bin\Debug\Constructors006.exe.config
+C:\Workshop\Constructors006\bin\Debug\Constructors006.exe
+C:\Workshop\Constructors006\bin\Debug\Constructors006.pdb
+C:\Workshop\Constructors006\obj\Debug\Constructors006.csprojAssemblyReference.cache
+C:\Workshop\Constructors006\obj\Debug\Constructors006.exe
+C:\Workshop\Constructors006\obj\Debug\Constructors006.pdb

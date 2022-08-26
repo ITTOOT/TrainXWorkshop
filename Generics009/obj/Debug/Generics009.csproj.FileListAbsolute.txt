@@ -1,0 +1,6 @@
+C:\Workshop\Generics009\bin\Debug\Generics009.exe.config
+C:\Workshop\Generics009\bin\Debug\Generics009.exe
+C:\Workshop\Generics009\bin\Debug\Generics009.pdb
+C:\Workshop\Generics009\obj\Debug\Generics009.csproj.CoreCompileInputs.cache
+C:\Workshop\Generics009\obj\Debug\Generics009.exe
+C:\Workshop\Generics009\obj\Debug\Generics009.pdb

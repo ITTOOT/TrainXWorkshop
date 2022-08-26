@@ -1,0 +1,7 @@
+C:\Workshop\Methods002\bin\Debug\Methods002.exe.config
+C:\Workshop\Methods002\bin\Debug\Methods002.exe
+C:\Workshop\Methods002\bin\Debug\Methods002.pdb
+C:\Workshop\Methods002\obj\Debug\Methods002.csprojAssemblyReference.cache
+C:\Workshop\Methods002\obj\Debug\Methods002.csproj.CoreCompileInputs.cache
+C:\Workshop\Methods002\obj\Debug\Methods002.exe
+C:\Workshop\Methods002\obj\Debug\Methods002.pdb

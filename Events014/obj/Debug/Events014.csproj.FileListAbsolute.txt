@@ -1,0 +1,6 @@
+C:\Workshop\Events014\bin\Debug\Events014.exe.config
+C:\Workshop\Events014\bin\Debug\Events014.exe
+C:\Workshop\Events014\bin\Debug\Events014.pdb
+C:\Workshop\Events014\obj\Debug\Events014.csproj.CoreCompileInputs.cache
+C:\Workshop\Events014\obj\Debug\Events014.exe
+C:\Workshop\Events014\obj\Debug\Events014.pdb

@@ -1,0 +1,7 @@
+C:\Workshop\Exception012\bin\Debug\Exception012.exe.config
+C:\Workshop\Exception012\bin\Debug\Exception012.exe
+C:\Workshop\Exception012\bin\Debug\Exception012.pdb
+C:\Workshop\Exception012\obj\Debug\Exception012.csprojAssemblyReference.cache
+C:\Workshop\Exception012\obj\Debug\Exception012.csproj.CoreCompileInputs.cache
+C:\Workshop\Exception012\obj\Debug\Exception012.exe
+C:\Workshop\Exception012\obj\Debug\Exception012.pdb

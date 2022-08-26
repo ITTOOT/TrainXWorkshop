@@ -1,0 +1,12 @@
+C:\Workshop\EntityFramework021\bin\Debug\EntityFramework021.exe.config
+C:\Workshop\EntityFramework021\bin\Debug\EntityFramework021.exe
+C:\Workshop\EntityFramework021\bin\Debug\EntityFramework021.pdb
+C:\Workshop\EntityFramework021\bin\Debug\EntityFramework.dll
+C:\Workshop\EntityFramework021\bin\Debug\EntityFramework.SqlServer.dll
+C:\Workshop\EntityFramework021\bin\Debug\EntityFramework.xml
+C:\Workshop\EntityFramework021\bin\Debug\EntityFramework.SqlServer.xml
+C:\Workshop\EntityFramework021\obj\Debug\EntityFramework021.csprojAssemblyReference.cache
+C:\Workshop\EntityFramework021\obj\Debug\EntityFramework021.csproj.CoreCompileInputs.cache
+C:\Workshop\EntityFramework021\obj\Debug\EntityFramework021.csproj.CopyComplete
+C:\Workshop\EntityFramework021\obj\Debug\EntityFramework021.exe
+C:\Workshop\EntityFramework021\obj\Debug\EntityFramework021.pdb

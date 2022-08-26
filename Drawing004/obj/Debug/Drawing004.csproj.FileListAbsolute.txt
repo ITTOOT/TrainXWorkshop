@@ -1,0 +1,7 @@
+C:\Workshop\Drawing004\bin\Debug\Drawing004.exe.config
+C:\Workshop\Drawing004\bin\Debug\Drawing004.exe
+C:\Workshop\Drawing004\bin\Debug\Drawing004.pdb
+C:\Workshop\Drawing004\obj\Debug\Drawing004.csprojAssemblyReference.cache
+C:\Workshop\Drawing004\obj\Debug\Drawing004.csproj.CoreCompileInputs.cache
+C:\Workshop\Drawing004\obj\Debug\Drawing004.exe
+C:\Workshop\Drawing004\obj\Debug\Drawing004.pdb

@@ -1,0 +1,7 @@
+C:\Workshop\String019\bin\Debug\String019.exe.config
+C:\Workshop\String019\bin\Debug\String019.exe
+C:\Workshop\String019\bin\Debug\String019.pdb
+C:\Workshop\String019\obj\Debug\String019.csprojAssemblyReference.cache
+C:\Workshop\String019\obj\Debug\String019.csproj.CoreCompileInputs.cache
+C:\Workshop\String019\obj\Debug\String019.exe
+C:\Workshop\String019\obj\Debug\String019.pdb

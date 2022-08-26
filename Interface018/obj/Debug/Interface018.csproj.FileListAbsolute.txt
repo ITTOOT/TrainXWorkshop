@@ -1,0 +1,7 @@
+C:\Workshop\Interface018\bin\Debug\Interface018.exe.config
+C:\Workshop\Interface018\bin\Debug\Interface018.exe
+C:\Workshop\Interface018\bin\Debug\Interface018.pdb
+C:\Workshop\Interface018\obj\Debug\Interface018.csprojAssemblyReference.cache
+C:\Workshop\Interface018\obj\Debug\Interface018.csproj.CoreCompileInputs.cache
+C:\Workshop\Interface018\obj\Debug\Interface018.exe
+C:\Workshop\Interface018\obj\Debug\Interface018.pdb
